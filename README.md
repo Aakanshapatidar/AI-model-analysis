@@ -1,7 +1,7 @@
 ﻿# AI-model-analysis
-# 📊 AI Model Performance & Cost Analysis Dashboard
+# AI Model Performance & Cost Analysis Dashboard
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on analyzing and comparing the performance of various AI models based on
 multiple parameters such as intelligence score, pricing, latency, and context window capacity.
 The objective is to extract meaningful insights from the data and present them through a
@@ -12,7 +12,7 @@ Python and data visualization using Power BI.
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 - To clean and preprocess raw AI model performance data
 - To analyze relationships between intelligence, price, latency, and context window
 - To create an interactive and colorful dashboard for decision-making
@@ -20,7 +20,7 @@ Python and data visualization using Power BI.
 
 ---
 
-## 🧰 Tools & Technologies Used
+## Tools & Technologies Used
 - **Python** – for data cleaning and preprocessing
 - **Pandas** – handling missing values, duplicates, and data transformation
 - **Power BI** – dashboard creation and data visualization
@@ -29,7 +29,7 @@ Python and data visualization using Power BI.
 
 ---
 
-## 📂 Dataset Description
+## Dataset Description
 The dataset contains information about different AI models with the following attributes:
 
 - **Model**: Name of the AI model  
@@ -40,7 +40,7 @@ The dataset contains information about different AI models with the following at
 
 ---
 
-## 🧹 Data Cleaning & Preprocessing
+## Data Cleaning & Preprocessing
 Data cleaning was performed using Python and Pandas to ensure accuracy and consistency.
 
 The following steps were applied:
@@ -55,9 +55,9 @@ This step ensured that the data was reliable and ready for analysis.
 
 ---
 
-## 📊 Power BI Dashboard Description
+## Power BI Dashboard Description
 
-### 🔹 KPI Cards
+### KPI Cards
 - Average Intelligence Index  
 - Average Price per 1M Tokens  
 - Maximum Context Window  
@@ -71,7 +71,7 @@ These KPIs provide a quick summary of overall dataset performance.
 </p>
 ---
 
-### 🔹 Bar Chart – Intelligence Index by Model
+### Bar Chart – Intelligence Index by Model
 <p style="font-size:12px;">
 Displays the average intelligence score for each AI model.
 Helps identify high-performing models.
@@ -82,7 +82,7 @@ Helps identify high-performing models.
 </p
 ---
 
-### 🔹 Column Chart – Price per 1M Tokens by Model
+### Column Chart – Price per 1M Tokens by Model
 <p style="font-size:12px;">
 Shows a cost comparison across different AI models.
 Useful for identifying affordable and premium models.
@@ -93,7 +93,7 @@ Useful for identifying affordable and premium models.
 </p
 ---
 
-### 🔹 Bar Chart – Context Window by Model
+### Bar Chart – Context Window by Model
 <p style="font-size:12px;">
 Compares the maximum context window capacity of each model.
 Highlights models suitable for long-context tasks.
@@ -104,7 +104,7 @@ Highlights models suitable for long-context tasks.
 </p
 ---
 
-### 🔹 Line Chart – Latency by Model
+### Line Chart – Latency by Model
 <p style="font-size:12px;">
 Illustrates response time differences among models.
 Lower latency indicates faster responses.
@@ -115,7 +115,7 @@ Lower latency indicates faster responses.
 </p
 ---
 
-### 🔹 Scatter Plot – Price vs Intelligence Index
+### Scatter Plot – Price vs Intelligence Index
 <p style="font-size:12px;">
 Demonstrates the relationship between model performance and cost.
 Bubble size represents context window capacity.
@@ -126,7 +126,7 @@ Bubble size represents context window capacity.
 </p
 ---
 
-### 🔹 Donut Chart – Context Window Distribution
+### Donut Chart – Context Window Distribution
 <p style="font-size:12px;">
 Shows how AI models are distributed across different context window ranges.
 </p>
@@ -136,7 +136,7 @@ Shows how AI models are distributed across different context window ranges.
 </p
 ---
 
-### 🔹 Comparison Table
+### Comparison Table
 <p style="font-size:12px;">
 Provides a detailed comparison of all AI models with conditional formatting
 for easier interpretation.
@@ -148,7 +148,7 @@ for easier interpretation.
 
 ---
 
-## 🎨 Dashboard Design Approach
+## Dashboard Design Approach
 - Dark premium background theme
 - Colorful visuals for better readability
 - Meaningful color coding for insights
@@ -156,7 +156,7 @@ for easier interpretation.
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Higher intelligence AI models generally come at higher costs
 - Some mid-range models offer a good balance between performance and price
 - Larger context windows are associated with advanced models
@@ -164,7 +164,7 @@ for easier interpretation.
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 The analysis of the AI model performance dataset reveals important insights into the trade-offs
 between intelligence, cost, latency, and context window capacity.
 
@@ -180,14 +180,14 @@ specific business requirements and use cases.
 </p
 ---
 
-## 📎 Project Files
+## Project Files
 - Cleaned dataset (CSV)
 - Python data cleaning script
 - Power BI dashboard file (.pbix)
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Aakansha Patidar**
 
 ---
@@ -195,4 +195,5 @@ specific business requirements and use cases.
 ## ⭐ Acknowledgement
 This project was created as part of a data analytics learning journey to gain
 hands-on experience in real-world data analysis and visualization.
+
 

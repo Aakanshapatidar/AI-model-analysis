@@ -192,8 +192,9 @@ specific business requirements and use cases.
 
 ---
 
-## ⭐ Acknowledgement
+## Acknowledgement
 This project was created as part of a data analytics learning journey to gain
 hands-on experience in real-world data analysis and visualization.
+
 
 
